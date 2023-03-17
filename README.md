@@ -33,6 +33,8 @@ Casual users:
 2. Register and unregister for an event
 
 Group Members:
+
+
 | Name                 | ID         |
 
 
