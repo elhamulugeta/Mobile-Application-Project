@@ -13,10 +13,6 @@ The app will have 3 types of users:
 2. Casual User
 3. Admin
 
-The business features that the app will have in addition to authentication and authorization are:
-1. Event Creation by the admin- CRUD operations to create, read, update and delete a given event
-2. Information provision by the doctors and health professionals user: CRUD operations to create new information, update said information, read the information and also delete a piece of information that was posted. 
-
 
 User roles:
 
