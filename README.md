@@ -38,4 +38,3 @@ Group Members:
 | Elham Mulugeta| UGR/2062/13   |
 | Etsub Taye    | UGR/6079/13   |
 | Rediet Haileab| UGR/9422/13   |
-| Rediet Haileab       | UGR/9422/13|
