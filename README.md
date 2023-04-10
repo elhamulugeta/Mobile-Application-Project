@@ -20,13 +20,16 @@ Admin:
 1. Manage the doctors and the casual user.
 2. Create, update, edit and delete an event.
 3. Delete the information given by doctors.
+4,Delete questions raised by the casual user.
 
 Doctor/Health care professional:
 1. CRUD information for the casual users
+2,Answers the casual user questions
 
 Casual users:
 1. Read information posted by the healthcare professionals
 2. Register and unregister for an event
+3,crud operation for asking questions.
 
 Group Members:
 | Name          | ID            |
